@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Lab2","c":"QuadraticEquation","l":"diakrinousa(double, double, double)","url":"diakrinousa(double,double,double)"},{"p":"Lab2","c":"QuadraticEquation","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"Lab2","c":"QuadraticEquation","l":"QuadraticEquation()","url":"%3Cinit%3E()"}]
